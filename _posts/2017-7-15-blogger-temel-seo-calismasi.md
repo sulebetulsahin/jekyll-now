@@ -9,9 +9,9 @@ Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel 
 
 Take me to [pookie](#pookie)
 
+[Başlık](){:name='pookie'}
 
-
-[Arama Sonuçlarında Görünürlük Sağlama] (1)
+[Arama Sonuçlarında Görünürlük Sağlama] (#1)
 Search Console'a Ekleme
 Başlık ve Açıklama Ekleme
 Meta Açıklama ve Anahtar Kelime Ekleme
@@ -23,7 +23,7 @@ Mobil Uyumluluk
 
 
 
-(1): Arama Sonuçlarında Görünürlük Sağlama
+[Arama Sonuçlarında Görünürlük Sağlama](){:name='1'}
 Blogun hem blogger listesinde hem de arama motorlarında görünür olması için 
 Ayarlar->Temel->Gizlilik sekmesine giderek gerekli ayarları “Evet” olarak işaretliyoruz. 
 Ayarlar->Temel->Blog Okuyucuları sekmesini “Herkese Açık” olarak işaretliyoruz.
@@ -46,7 +46,6 @@ Google aramalarında görünecek olan meta açıklamayı Ayarlar->Arama Tercihle
 
 Yaptığınız değişiklikler aramalarda hemen çıkmayabilir. Blogunuzun aramalarda nasıl görüneceğine Meta Tag Analyzer aracını kullanarak bakabilirsiniz.
 
-[Başlık](){:name='pookie'}
 
 Aramalarda "Yazı başlığı: Blog ismi" Olarak Çıkması
 Google aramalarda yazı başlığının ilk 66 karakterinin görüntülenmesine izin vermektedir. Bu yüzden aramalarda ziyaretçilerin odağını yazıya çevirmek için önce yazı başlığı sonra blog isminin görünmesi önemlidir. Aksi takdirde ziyaretçi yazı başlığını göremeyebilir. Arama sonuçlarında “Yazı başlığı: Blog ismi” şeklinde görünüm sağlamak için Tema->HTML'yi düzenle sekmesine giderek <title>...</title> kodunu bulup bu kodun yerine aşağıdaki kodları yapıştırıyoruz.
