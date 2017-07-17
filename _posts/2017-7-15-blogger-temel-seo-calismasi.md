@@ -10,9 +10,9 @@ Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel 
 {::options parse_block_html="true" /}
 
 
-## [Arama Sonuçlarında Görünürlük Sağlama](#aramasonuclari)
-## [Search Console'a Ekleme](#search)
-## [Başlık ve Açıklama Ekleme](#baslikaciklama)
+### [Arama Sonuçlarında Görünürlük Sağlama](#aramasonuclari)
+### [Search Console'a Ekleme](#search)
+### [Başlık ve Açıklama Ekleme](#baslikaciklama)
 ## [Meta Açıklama ve Anahtar Kelime Ekleme](#metaaciklama)
 ## [Aramalarda "Yazı başlığı: Blog ismi" Olarak Çıkması](#yazibasligi)
 ## [Site Haritası Ekleme](#siteharitasi)
@@ -21,7 +21,7 @@ Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel 
 ## [Mobil Uyumluluk](#mobiluyumluluk)
 <br>
 <br>
-<p align="center"> [Arama Sonuçlarında Görünürlük Sağlama](){:name='aramasonuclari'} </p>
+<p align="center"> # [Arama Sonuçlarında Görünürlük Sağlama](){:name='aramasonuclari'} </p>
 
 Blogun hem blogger listesinde hem de arama motorlarında görünür olması için 
 Ayarlar->Temel->Gizlilik sekmesine giderek gerekli ayarları “Evet” olarak işaretliyoruz. 
