@@ -7,7 +7,7 @@ categories: deneme
 
 Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel seo ayarları.
 
-Take me to <a href="#pookie">pookie</a>
+Take me to [pookie](#pookie)
 
 <a name="pookie">this is pookie</a>
 
