@@ -21,8 +21,7 @@ Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel 
 ## [Mobil Uyumluluk](#mobiluyumluluk)
 <br>
 <br>
-<br>
-<span align="center"> [Arama Sonuçlarında Görünürlük Sağlama](){:name='aramasonuclari'} </span>
+<p align="center"> [Arama Sonuçlarında Görünürlük Sağlama](){:name='aramasonuclari'} </p>
 
 Blogun hem blogger listesinde hem de arama motorlarında görünür olması için 
 Ayarlar->Temel->Gizlilik sekmesine giderek gerekli ayarları “Evet” olarak işaretliyoruz. 
