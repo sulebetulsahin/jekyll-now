@@ -11,7 +11,7 @@ Take me to [pookie](#pookie)
 
 [Başlık](){:name='pookie'}
 
-[Arama Sonuçlarında Görünürlük Sağlama] (#1)
+[Arama Sonuçlarında Görünürlük Sağlama] (#Arama Sonuçlarında Görünürlük Sağlama)
 Search Console'a Ekleme
 Başlık ve Açıklama Ekleme
 Meta Açıklama ve Anahtar Kelime Ekleme
@@ -23,7 +23,7 @@ Mobil Uyumluluk
 
 
 
-[Arama Sonuçlarında Görünürlük Sağlama](){:name='1'}
+[Arama Sonuçlarında Görünürlük Sağlama](){:name='Arama Sonuçlarında Görünürlük Sağlama'}
 Blogun hem blogger listesinde hem de arama motorlarında görünür olması için 
 Ayarlar->Temel->Gizlilik sekmesine giderek gerekli ayarları “Evet” olarak işaretliyoruz. 
 Ayarlar->Temel->Blog Okuyucuları sekmesini “Herkese Açık” olarak işaretliyoruz.
