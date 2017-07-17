@@ -23,8 +23,8 @@ Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel 
 <br>
 <br>
 
-<p align="center"> 
-# [Arama Sonuçlarında Görünürlük Sağlama](){:name='aramasonuclari'}
+<p align="center" style="font-size:20px"> 
+[Arama Sonuçlarında Görünürlük Sağlama](){:name='aramasonuclari'}
 </p>
 
 Blogun hem blogger listesinde hem de arama motorlarında görünür olması için 
