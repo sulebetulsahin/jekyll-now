@@ -19,9 +19,13 @@ Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel 
 ## [Robots.txt ve Özel Robot Etiketleri Düzenleme](#robots)
 ## [Google Analytics'e Ekleme](#googleanalytics)
 ## [Mobil Uyumluluk](#mobiluyumluluk)
+
 <br>
 <br>
-<p align="center" markdown="1> # [Arama Sonuçlarında Görünürlük Sağlama](){:name='aramasonuclari'} </p>
+
+<p align="center" markdown="1> 
+# [Arama Sonuçlarında Görünürlük Sağlama](){:name='aramasonuclari'} 
+</p>
 
 Blogun hem blogger listesinde hem de arama motorlarında görünür olması için 
 Ayarlar->Temel->Gizlilik sekmesine giderek gerekli ayarları “Evet” olarak işaretliyoruz. 
