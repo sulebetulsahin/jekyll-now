@@ -9,7 +9,7 @@ Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel 
 
 Take me to [pookie](#pookie)
 
-<a name="pookie">this is pookie</a>
+[Başlık](){:name='pookie'}
 
 [Arama Sonuçlarında Görünürlük Sağlama] (1)
 Search Console'a Ekleme
