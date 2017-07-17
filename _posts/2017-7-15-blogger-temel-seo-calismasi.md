@@ -9,7 +9,7 @@ Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel 
 
 {::options parse_block_html="true" /}
 
-<div style="float: center">
+<p align="center">
 
 ## [Arama Sonuçlarında Görünürlük Sağlama](#aramasonuclari)
 ## [Search Console'a Ekleme](#search)
@@ -21,7 +21,7 @@ Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel 
 ## [Google Analytics'e Ekleme](#googleanalytics)
 ## [Mobil Uyumluluk](#mobiluyumluluk)
 
-</div>
+</p>
 
 
 
