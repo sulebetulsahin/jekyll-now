@@ -7,7 +7,7 @@ categories: deneme
 
 Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel seo ayarları.
 
-<p align="center">
+<div style="float: center">
 
 ## [Arama Sonuçlarında Görünürlük Sağlama](#aramasonuclari)
 ## [Search Console'a Ekleme](#search)
@@ -19,7 +19,7 @@ Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel 
 ## [Google Analytics'e Ekleme](#googleanalytics)
 ## [Mobil Uyumluluk](#mobiluyumluluk)
 
-</p>
+</div>
 
 
 
