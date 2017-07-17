@@ -7,6 +7,8 @@ categories: deneme
 
 Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel seo ayarları.
 
+<p align="center">
+
 ## [Arama Sonuçlarında Görünürlük Sağlama](#aramasonuclari)
 ## [Search Console'a Ekleme](#search)
 ## [Başlık ve Açıklama Ekleme](#baslikaciklama)
@@ -16,6 +18,8 @@ Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel 
 ## [Robots.txt ve Özel Robot Etiketleri Düzenleme](#robots)
 ## [Google Analytics'e Ekleme](#googleanalytics)
 ## [Mobil Uyumluluk](#mobiluyumluluk)
+
+</p>
 
 
 
