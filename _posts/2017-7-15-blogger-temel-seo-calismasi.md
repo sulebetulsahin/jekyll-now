@@ -13,12 +13,12 @@ Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel 
 ### [Arama Sonuçlarında Görünürlük Sağlama](#aramasonuclari)
 ### [Search Console'a Ekleme](#search)
 ### [Başlık ve Açıklama Ekleme](#baslikaciklama)
-## [Meta Açıklama ve Anahtar Kelime Ekleme](#metaaciklama)
-## [Aramalarda "Yazı başlığı: Blog ismi" Olarak Çıkması](#yazibasligi)
-## [Site Haritası Ekleme](#siteharitasi)
-## [Robots.txt ve Özel Robot Etiketleri Düzenleme](#robots)
-## [Google Analytics'e Ekleme](#googleanalytics)
-## [Mobil Uyumluluk](#mobiluyumluluk)
+### [Meta Açıklama ve Anahtar Kelime Ekleme](#metaaciklama)
+### [Aramalarda "Yazı başlığı: Blog ismi" Olarak Çıkması](#yazibasligi)
+### [Site Haritası Ekleme](#siteharitasi)
+### [Robots.txt ve Özel Robot Etiketleri Düzenleme](#robots)
+### [Google Analytics'e Ekleme](#googleanalytics)
+### [Mobil Uyumluluk](#mobiluyumluluk)
 
 <br>
 <br>
