@@ -24,7 +24,7 @@ Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel 
 <br>
 
 <p align="center" markdown="1> 
-# [Arama Sonuçlarında Görünürlük Sağlama](){:name='aramasonuclari'} 
+#[Arama Sonuçlarında Görünürlük Sağlama](){:name='aramasonuclari'} 
 </p>
 
 Blogun hem blogger listesinde hem de arama motorlarında görünür olması için 
