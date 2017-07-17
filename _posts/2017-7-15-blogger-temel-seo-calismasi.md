@@ -23,7 +23,7 @@ Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel 
 <br>
 <br>
 
-<p align="center" markdown="1> 
+<p align="center"> 
 <h2> [Arama Sonuçlarında Görünürlük Sağlama](){:name='aramasonuclari'} </h2>
 </p>
 
