@@ -9,11 +9,9 @@ Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel 
 
 Take me to <a href="#pookie">pookie</a>
 
-... 
-
 <a name="pookie">this is pookie</a>
 
-[Arama Sonuçlarında Görünürlük Sağlama] (#1)
+[Arama Sonuçlarında Görünürlük Sağlama] (1)
 Search Console'a Ekleme
 Başlık ve Açıklama Ekleme
 Meta Açıklama ve Anahtar Kelime Ekleme
@@ -25,7 +23,7 @@ Mobil Uyumluluk
 
 
 
-(#1): Arama Sonuçlarında Görünürlük Sağlama
+(1): Arama Sonuçlarında Görünürlük Sağlama
 Blogun hem blogger listesinde hem de arama motorlarında görünür olması için 
 Ayarlar->Temel->Gizlilik sekmesine giderek gerekli ayarları “Evet” olarak işaretliyoruz. 
 Ayarlar->Temel->Blog Okuyucuları sekmesini “Herkese Açık” olarak işaretliyoruz.
