@@ -7,7 +7,7 @@ categories: deneme
 
 Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel seo ayarları.
 
-# [Arama Sonuçlarında Görünürlük Sağlama](#aramasonuclari)
+## [Arama Sonuçlarında Görünürlük Sağlama](#aramasonuclari)
 Search Console'a Ekleme
 Başlık ve Açıklama Ekleme
 Meta Açıklama ve Anahtar Kelime Ekleme
