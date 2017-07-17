@@ -23,7 +23,7 @@ Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel 
 <br>
 <br>
 
-<p align="center" style="font-size:20px"> 
+<p align="center" style="font-size:30px"> 
 [Arama Sonuçlarında Görünürlük Sağlama](){:name='aramasonuclari'}
 </p>
 
