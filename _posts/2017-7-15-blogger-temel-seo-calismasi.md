@@ -20,6 +20,7 @@ Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel 
 
 
 [Arama Sonuçlarında Görünürlük Sağlama](){:name='aramasonuclari'}
+
 Blogun hem blogger listesinde hem de arama motorlarında görünür olması için 
 Ayarlar->Temel->Gizlilik sekmesine giderek gerekli ayarları “Evet” olarak işaretliyoruz. 
 Ayarlar->Temel->Blog Okuyucuları sekmesini “Herkese Açık” olarak işaretliyoruz.
