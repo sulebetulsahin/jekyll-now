@@ -7,6 +7,8 @@ categories: deneme
 
 Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel seo ayarları.
 
+{::options parse_block_html="true" /}
+
 <div style="float: center">
 
 ## [Arama Sonuçlarında Görünürlük Sağlama](#aramasonuclari)
