@@ -28,8 +28,8 @@ Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel 
 </p>
 
 Blogun hem blogger listesinde hem de arama motorlarında görünür olması için 
-*Ayarlar->Temel->Gizlilik* sekmesine giderek gerekli ayarları “Evet” olarak işaretliyoruz. 
-*Ayarlar->Temel->Blog Okuyucuları* sekmesini “Herkese Açık” olarak işaretliyoruz.
+*Ayarlar->Temel->Gizlilik* sekmesine giderek gerekli ayarları *"Evet"* olarak işaretliyoruz. 
+*Ayarlar->Temel->Blog Okuyucuları* sekmesini *"Herkese Açık"* olarak işaretliyoruz.
 
 
 <p align="center" style="font-size:30px;  font-weight:bold;">
@@ -47,7 +47,7 @@ Google aramalarında görünecek olan başlık ve açıklama kısmını *Ayarlar
 <p align="center" style="font-size:30px;  font-weight:bold;">
 [Meta Açıklama ve Anahtar Kelime Ekleme](){:name='metaaciklama'}
 </p>
-Google aramalarında görünecek olan meta açıklamayı *Ayarlar->Arama Tercihleri->Açıklama* sekmesinden ekleyebilirsiniz. Buraya yazacağınız açıklama aramalarda çıkacağı için ziyaretçiye blogunuzun içeriğiyle ilgili bilgi vermelidir. En fazla 160 karakter olmalıdır. Meta açıklamayı aktif hale getirmek için *Tema->HTML'yi düzenle* sekmesinde *<head></head>* etiketleri arasına '<b:include data='blog' name='all-head-content'/>' kodunu ekliyoruz. Ardından sitenizin içeriğiyle ilgili 2 veya 3 anahtar kelime belirleyerek aynı şekilde <head></head> tagları arasına 
+Google aramalarında görünecek olan meta açıklamayı *Ayarlar->Arama Tercihleri->Açıklama* sekmesinden ekleyebilirsiniz. Buraya yazacağınız açıklama aramalarda çıkacağı için ziyaretçiye blogunuzun içeriğiyle ilgili bilgi vermelidir. En fazla 160 karakter olmalıdır. Meta açıklamayı aktif hale getirmek için *Tema->HTML'yi düzenle* sekmesinde *<head></head>* etiketleri arasına '''<b:include data='blog' name='all-head-content'/>''' kodunu ekliyoruz. Ardından sitenizin içeriğiyle ilgili 2 veya 3 anahtar kelime belirleyerek aynı şekilde <head></head> tagları arasına 
 <meta content='anahtar kelime1, anahtar kelime2, anahtar kelime3' name='keywords'/> kodunu ekliyoruz. 
 
 Yaptığınız değişiklikler aramalarda hemen çıkmayabilir. Blogunuzun aramalarda nasıl görüneceğine Meta Tag Analyzer aracını kullanarak bakabilirsiniz.
