@@ -79,11 +79,14 @@ Eğer sitenizde 500 den daha az yazı varsa :
 Eğer 500 ile 1000 arasında ise :
 
 `atom.xml?redirect=false&start-index=1&max-results=500` 
+
 `atom.xml?redirect=false&start-index=501&max-results=500`
 
 Eğer binden fazla ise : 
 `atom.xml?redirect=false&start-index=1&max-results=500` 
-`atom.xml?redirect=false&start-index=501&max-results=500` 
+
+`atom.xml?redirect=false&start-index=501&max-results=500`
+
 `atom.xml?redirect=false&start-index=1001&max-results=500`
 
 
