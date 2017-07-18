@@ -73,16 +73,18 @@ Google aramalarda yazı başlığının ilk 66 karakterinin görüntülenmesine 
 Site haritası yani sitemap, bir XML dosyası olup blogunuzda bulunan linkleri içerir. Google botlarının sitenizi bulmasını sağlar. Blogunuza sitemap eklemek için Google Search Console'a gidin. Sol taraftan daha önce eklemiş olduğunuz blogunuzu seçin. Sol tarafta yer alan *Tarama->Site Haritaları* sekmesine gidin. Sağ üstte yer alan *"Site Haritası Ekleme/Test Etme"* bağlantısına tıklayın. Açılan penceredeki alana blogunuzdaki yazı sayısına göre aşağıdaki kodları ekleyin ve gönderin.
 
 Eğer sitenizde 500 den daha az yazı varsa :
-atom.xml?redirect=false&start-index=1&max-results=500
 
-Eğer 500 ile 1000 arasında ise 
-atom.xml?redirect=false&start-index=1&max-results=500 
-atom.xml?redirect=false&start-index=501&max-results=500
+`atom.xml?redirect=false&start-index=1&max-results=500`
+
+Eğer 500 ile 1000 arasında ise :
+
+`atom.xml?redirect=false&start-index=1&max-results=500` 
+`atom.xml?redirect=false&start-index=501&max-results=500`
 
 Eğer binden fazla ise : 
-atom.xml?redirect=false&start-index=1&max-results=500 
-atom.xml?redirect=false&start-index=501&max-results=500 
-atom.xml?redirect=false&start-index=1001&max-results=500
+`atom.xml?redirect=false&start-index=1&max-results=500` 
+`atom.xml?redirect=false&start-index=501&max-results=500` 
+`atom.xml?redirect=false&start-index=1001&max-results=500`
 
 
 <p align="center" style="font-size:30px;  font-weight:bold;">
