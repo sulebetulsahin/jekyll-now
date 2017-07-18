@@ -120,7 +120,9 @@ Blogger sitelerin avantajı default olarak mobil uyumlu bir yapıyla gelmektedir
 
 
 Kaynaklar:
+
 www.ehliblog.com
+
 www.teknobeyin.com
 
 
