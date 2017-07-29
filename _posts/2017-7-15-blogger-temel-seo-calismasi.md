@@ -5,7 +5,7 @@ date:   2017-7-15 15:48:00
 categories: SEO
 ---
 
-Site içi seo çalışması kullanıcılar ve arama motoru botları için yapılmaktadır. Yazılım ve tasarımla ilgili alanları içermekle beraber en önemli bölümü SEO uyumlu içeriktir. Site içi seo çalışmalarındaki amaç içerik kalitesini yükseltmek ve aramalarda üst sıralarda çıkmaktır.
+Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel seo ayarları.
 
 {::options parse_block_html="true" /}
 
