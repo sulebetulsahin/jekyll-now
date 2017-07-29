@@ -144,6 +144,7 @@ Anahtar kelimenizle eş anlamlı, alakalı veya benzer diğer kelimelerdir. Gizl
 
 <p align="center" style="font-size:30px; font-weight:bold;">
 [Resim Optimizasyonu](){:name='resim'}
+</p>
 Görsel aramalarda çıkmak için içeriklerinizdeki resimlerin optimizasyonunu yapmalısınız. Resimlere anahtar kelimenizin geçtiği isim, başlık ve alt etiketi ekleyerek neyle alakalı olduğunu arama motoru böceklerine anlatmalısınız. İsimlendirirken Türkçe karakter kullanmayın, boşluk yerine '-' işareti kullanın. İçeriğin okunma kısmının genişliğinden daha büyük boyutta resim yüklemeyin. Resimleri yüklemeden önce Photoshop benzeri programlar ile optimize edin. Bunları yapmanız page speed skorunuz ve site hızınız için önemlidir. 
 
 Kaynaklar:
