@@ -72,7 +72,7 @@ Doğru Kod: `<td height="100%">`
 <p align="center" style="font-size:30px; font-weight:bold;">
 [Kırık Link Bağlantılarını Bildirme](){:name='kiriklink'}
 </p>
-Websitenizde daha önce yer alan ve sonradan kaldırılan linklere, kırık link denilmektedir. 404 hatasıyla karşılaşılan sayfalar gibi. Kırık linklerin az olması veya hiç olmaması Google tarafından olumlu karşılanmaktadır. Websitenizde bulunan kırık linkleri Webmaster Tools panelinden “Sitenize Bağlantılar” sekmesinden öğrenebilirsiniz. Çalışmayan kırık linkler sitenizde buton, resim gibi herhangi bir bağlantıda bulunuyorsa kaldırın. Bu linkleri ilgili sayfalara(404 sayfası, kategori, yazı vb.) yönlendirin.
+Websitenizde daha önce yer alan ve sonradan kaldırılan linklere, kırık link denilmektedir. 404 hatasıyla karşılaşılan sayfalar gibi. Kırık linklerin az olması veya hiç olmaması Google tarafından olumlu karşılanmaktadır. Websitenizde bulunan kırık linkleri Webmaster Tools panelinden *“Sitenize Bağlantılar”* sekmesinden öğrenebilirsiniz. Çalışmayan kırık linkler sitenizde buton, resim gibi herhangi bir bağlantıda bulunuyorsa kaldırın. Bu linkleri ilgili sayfalara(404 sayfası, kategori, yazı vb.) yönlendirin.
 
 <p align="center" style="font-size:30px; font-weight:bold;">
 [İlgi Çekici 404 Sayfası Hazırlama](){:name='404'}
@@ -105,10 +105,10 @@ Backlink almak site dışı SEO çalışmaları için önemliyken backlink verme
 Google tarafından içerikler incelenirken yazı linklerinizdeki ilk 3-5 kelimeye önem verilmektedir. URL yapınızın ilk 5 kelimesini SEO uyumlu belirlemek için şunlara dikkat etmelisiniz:
 
 URL yapınız çok fazla uzun olmamalı ve ilk 5 kelimesinde sıralamada çıkmak istediğiniz anahtar kelimeyi içermeli.
-URL yapınızda tarih, rakam gibi ögeler yer almamalı. Örneğin; Blogadi.com/p=212 veya Blogadi.com/4/12/kategori/yazi-basligi
+URL yapınızda tarih, rakam gibi ögeler yer almamalı. Örneğin; *Blogadi.com/p=212* veya *Blogadi.com/4/12/kategori/yazi-basligi*
 
 Örnek SEO uyumlu URL yapısı:
-Blogadi.com/site-ici-seo veya Blogadi.com/seo/site-ici-seo
+*Blogadi.com/site-ici-seo* veya *Blogadi.com/seo/site-ici-seo*
 
 <p align="center" style="font-size:30px; font-weight:bold;">
 [H Etiketleri Kullanımı](){:name='hetiketi'}
@@ -145,7 +145,7 @@ Anahtar kelimenizle eş anlamlı, alakalı veya benzer diğer kelimelerdir. Gizl
 <p align="center" style="font-size:30px; font-weight:bold;">
 [Resim Optimizasyonu](){:name='resim'}
 </p>
-Görsel aramalarda çıkmak için içeriklerinizdeki resimlerin optimizasyonunu yapmalısınız. Resimlere anahtar kelimenizin geçtiği isim, başlık ve alt etiketi ekleyerek neyle alakalı olduğunu arama motoru böceklerine anlatmalısınız. İsimlendirirken Türkçe karakter kullanmayın, boşluk yerine '-' işareti kullanın. İçeriğin okunma kısmının genişliğinden daha büyük boyutta resim yüklemeyin. Resimleri yüklemeden önce Photoshop benzeri programlar ile optimize edin. Bunları yapmanız page speed skorunuz ve site hızınız için önemlidir. 
+Görsel aramalarda çıkmak için içeriklerinizdeki resimlerin optimizasyonunu yapmalısınız. Resimlere anahtar kelimenizin geçtiği isim, başlık ve alt etiketi ekleyerek neyle alakalı olduğunu arama motoru böceklerine anlatmalısınız. İsimlendirirken Türkçe karakter kullanmayın, boşluk yerine *'-'* işareti kullanın. İçeriğin okunma kısmının genişliğinden daha büyük boyutta resim yüklemeyin. Resimleri yüklemeden önce Photoshop benzeri programlar ile optimize edin. Bunları yapmanız page speed skorunuz ve site hızınız için önemlidir. 
 
 Kaynaklar: <br/>
 1.https://www.seoteknikleri.com <br/>
