@@ -23,7 +23,7 @@ Site içi seo çalışması kullanıcılar ve arama motoru botları için yapıl
 ### [Başlık Seçimi ve Açıklama](#baslikaciklama)
 ### [SEO Uyumlu İçerik Hazırlama](#icerik)
 ### [Anahtar Kelime Kullanımı](#anahtar)
-### [LSI](#lsi)
+### [LSI](#lsikelime)
 ### [Resim Optimizasyonu](#resim)
 
 
@@ -138,7 +138,7 @@ Doğrudan aramalardan gelen ziyaretçi sayısı
 Bildiğiniz gibi arama motorlarından çeşitli kelimeler ile arama yaparak içeriklere ulaşıyoruz.  Yapılan araştırmalar kişilerin %75'inin konuyla ilgili cümle yerine kelimelerle arama yaptıklarını gösteriyor. Okuyucuların hangi kelimeleri aratarak içeriğinize ulaşmasını istiyorsanız içeriğinizde bu kelimeleri geçirmelisiniz. Anahtar kelime analizi için Google Keyword Tools'u kullanabilirsiniz. Aşırıya kaçmadan doğal olarak cümlenin akışı içerisinde anahtar kelimelerinizi kullanın. Anahtar kelimenizi içeriğinizdeki h2 etiketlerinde kullanın. İçeriğinizin ilk paragrafında mutlaka bir kere geçirin. Anahtar kelime dağılımı rekabeti yüksek kelimelerde içerik uzunluğuna göre %2-3 arasında rekabeti düşük kelimelerde içerik uzunluğuna göre %7-8 arasında olmalıdır.
 
 <p align="center" style="font-size:30px; font-weight:bold;">
-[LSI](){:name='lsi'}
+[LSI](){:name='lsikelime'}
 </p>
 Anahtar kelimenizle eş anlamlı, alakalı veya benzer diğer kelimelerdir. Gizli anlamsal indexleme olarak bilinmektedir. Bu kelimeleri belirlemek için odak anahtar kelimenizi Google'da aratın,  sayfanın en altında benzer kelimeler çıkacaktır. Buradaki kelimelerden alakalı olanları LSI olarak belirleyebilirsiniz. 
 
