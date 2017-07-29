@@ -69,31 +69,39 @@ Doğru Kod: `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "htt
 Hatalı Kod: `<td height=100%>` 
 Doğru Kod: `<td height="100%">`
 
-Kırık Link Bağlantılarını Bildirme
+<p align="center" style="font-size:30px; font-weight:bold;">
+[Kırık Link Bağlantılarını Bildirme](){:name='kiriklink'}
+</p>
 Websitenizde daha önce yer alan ve sonradan kaldırılan linklere, kırık link denilmektedir. 404 hatasıyla karşılaşılan sayfalar gibi. Kırık linklerin az olması veya hiç olmaması Google tarafından olumlu karşılanmaktadır. Websitenizde bulunan kırık linkleri Webmaster Tools panelinden “Sitenize Bağlantılar” sekmesinden öğrenebilirsiniz. Çalışmayan kırık linkler sitenizde buton, resim gibi herhangi bir bağlantıda bulunuyorsa kaldırın. Bu linkleri ilgili sayfalara(404 sayfası, kategori, yazı vb.) yönlendirin.
 
-İlgi Çekici 404 Sayfası Hazırlama
+<p align="center" style="font-size:30px; font-weight:bold;">
+[İlgi Çekici 404 Sayfası Hazırlama](){:name='404'}
+</p>
 Genelde website sahiplerinin çok fazla önemsemediği bu sayfaların kullanıcıya eğlenceli şekilde sunulması hemen çıkma oranını düşürecektir.
 
-Site Hızı
+<p align="center" style="font-size:30px; font-weight:bold;">
+[Site Hızı](){:name='hiz'}
+</p>
 Web site hızı geçmişte doğrudan SEO çalışmasını etkileyen bir unsur değilken artık Google tarafından içerik sıralamalarına etki eden kriterler arasında değerlendiriliyor. Bununla beraber ziyaretçiler hızlı açılan web sitelerinde daha uzun süre kalmaktadır. Site hızı ortalama 3 saniyenin altında olmalı. Web sitenizin hızlı yüklenmesi için gerekli çalışmalara Gtmetrix veya Google sayfa hızı aracını kullanarak başlayabilirsiniz. Gelen uyarıları dikkate alarak yüklenme hızınızı arttırabilirsiniz.
 
-Tasarım
+<p align="center" style="font-size:30px; font-weight:bold;">
+[Tasarım](){:name='tasarim'}
+</p>
 Kullanıcı dostu, aranan içeriğe kolayca ulaşılan, hızlı navigasyon sunan web siteleri hem ziyaretçiler hem de arama motorları açısından önemlidir. Ayrıca sitenizin mobil uyumlu responsive tasarım desteklemesi son yıllarda Google'un önem verdiği ayrıntılardan birisi. Arama motorları eski kodları zararlı olarak görmektedir. Bu yüzden web sitenizin son teknolojiye göre kodlanmış olması avantaj sağlayacaktır. Örneğin güncel web standartlarıyla hazırlanmış olması, sitede yer alan şema, efekt, tablo gibi unsurların javascript yerine css ile kodlanmış olması. 
 
-Site İçi Bağlantılar
+<p align="center" style="font-size:30px; font-weight:bold;">
+[Site İçi Bağlantılar](){:name='siteici'}
+</p>
 Ziyaretçilerinizin sitenizde daha fazla zaman geçirmesi için site içi bağlantılar önemseyin. Birbiriyle alakalı olan yazılarda iç bağlantılar ile okuyucunun sitede kalma süresini arttırabilirsiniz. İç bağlantılar mutlaka yazının konusuyla alakalı olmalı. Her içerik için 2 ila 5 arasında bağlantı verebilirsiniz. 
 
-Site Dışı Bağlantılar
+<p align="center" style="font-size:30px; font-weight:bold;">
+[Site Dışı Bağlantılar](){:name='sitedisi'}
+</p>
 Backlink almak site dışı SEO çalışmaları için önemliyken backlink vermek site içi SEO çalışmaları için önemlidir. Wikipedia gibi kaliteli ve otoriter sitelere dış bağlantılar vermek Google'un içeriğinizin neyle alakalı olduğunu anlamasını ve içeriğinizi değerli görmesini sağlar.
 
-
-
-
-
-
-
-URL Yapısı
+<p align="center" style="font-size:30px; font-weight:bold;">
+[URL Yapısı](){:name='url'}
+</p>
 Google tarafından içerikler incelenirken yazı linklerinizdeki ilk 3-5 kelimeye önem verilmektedir. URL yapınızın ilk 5 kelimesini SEO uyumlu belirlemek için şunlara dikkat etmelisiniz:
 
 URL yapınız çok fazla uzun olmamalı ve ilk 5 kelimesinde sıralamada çıkmak istediğiniz anahtar kelimeyi içermeli.
