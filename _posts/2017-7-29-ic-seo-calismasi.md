@@ -28,7 +28,8 @@ Site içi seo çalışması kullanıcılar ve arama motoru botları için yapıl
 ### [Resim Optimizasyonu](#resim)
 
 
-
+<br>
+<br>
 
 Canonical URL
 Aynı içeriğe birden fazla URL ile ulaşılması sitenin duplicate content yani kopya içerik olarak algılanmasına yol açmaktadır. Canonical URL kullanarak aynı içeriğe ait iki farklı link yapısından hangisinin arama motoru örümcekleri tarafından baz alınacağını belirtiriz. 
