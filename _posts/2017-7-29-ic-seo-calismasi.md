@@ -147,16 +147,16 @@ Anahtar kelimenizle eş anlamlı, alakalı veya benzer diğer kelimelerdir. Gizl
 </p>
 Görsel aramalarda çıkmak için içeriklerinizdeki resimlerin optimizasyonunu yapmalısınız. Resimlere anahtar kelimenizin geçtiği isim, başlık ve alt etiketi ekleyerek neyle alakalı olduğunu arama motoru böceklerine anlatmalısınız. İsimlendirirken Türkçe karakter kullanmayın, boşluk yerine '-' işareti kullanın. İçeriğin okunma kısmının genişliğinden daha büyük boyutta resim yüklemeyin. Resimleri yüklemeden önce Photoshop benzeri programlar ile optimize edin. Bunları yapmanız page speed skorunuz ve site hızınız için önemlidir. 
 
-Kaynaklar:
-1.https://www.seoteknikleri.com
-2.http://www.crmmedya.com
-3.https://peakment.com
-4.http://blog.112dijital.com
-5.http://wpmavi.com
-6.https://www.seocu.com
-7.http://www.ehliblog.com
-8.http://www.teknobeyin.com
-9.https://www.seohocasi.com/
+Kaynaklar: <br/>
+1.https://www.seoteknikleri.com <br/>
+2.http://www.crmmedya.com <br/>
+3.https://peakment.com <br/>
+4.http://blog.112dijital.com <br/>
+5.http://wpmavi.com <br/>
+6.https://www.seocu.com <br/>
+7.http://www.ehliblog.com <br/>
+8.http://www.teknobeyin.com <br/>
+9.https://www.seohocasi.com/ <br/>
 
 
 
