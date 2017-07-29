@@ -2,10 +2,10 @@
 layout: post
 title:  "Blogger İçin Temel Seo Çalışması"
 date:   2017-7-15 15:48:00
-categories: deneme
+categories: SEO
 ---
 
-Google'un blog servisi olan blogger altyapısını kullanan bloglar için temel seo ayarları.
+Site içi seo çalışması kullanıcılar ve arama motoru botları için yapılmaktadır. Yazılım ve tasarımla ilgili alanları içermekle beraber en önemli bölümü SEO uyumlu içeriktir. Site içi seo çalışmalarındaki amaç içerik kalitesini yükseltmek ve aramalarda üst sıralarda çıkmaktır.
 
 {::options parse_block_html="true" /}
 
