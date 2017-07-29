@@ -30,36 +30,20 @@ Site içi seo çalışması kullanıcılar ve arama motoru botları için yapıl
 <br>
 <br>
 
-Canonical URL
+<p align="center" style="font-size:30px; font-weight:bold;">
+[Canonical URL](){:name='canonical'}
+</p>
+
 Aynı içeriğe birden fazla URL ile ulaşılması sitenin duplicate content yani kopya içerik olarak algılanmasına yol açmaktadır. Canonical URL kullanarak aynı içeriğe ait iki farklı link yapısından hangisinin arama motoru örümcekleri tarafından baz alınacağını belirtiriz. 
 
 Örneğin; Aşağıdaki iki farklı link aynı içeriğe ulaşıyor olsun.
-Blogadi.com/anahtar1
-Blogadi.com/anahtar2
+*Blogadi.com/anahtar1*
+*Blogadi.com/anahtar2*
 
-İlk linkten ulaşılmasını istiyoruz diyelim. <head> </head> etiketleri arasına aşağıdaki gibi Canonical etiketini kullanırız. 
-<link rel=”canonical” href=”blogadi.com/anahtar1” />
+İlk linkten ulaşılmasını istiyoruz diyelim. *<head> </head>* etiketleri arasına aşağıdaki gibi Canonical etiketini kullanırız. 
+*<link rel=”canonical” href=”blogadi.com/anahtar1” />*
 
-Blogger alt yapılı bloglarda Canonical URL kullanmak için Tema->HTML'yi düzenle sekmesine geldikten sonra expr:href="data:post.url" kodunu bulup expr:href="data:post.canonicalUrl" olarak değiştirin.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Blogger alt yapılı bloglarda Canonical URL kullanmak için Tema->HTML'yi düzenle sekmesine geldikten sonra *expr:href="data:post.url"* kodunu bulup *expr:href="data:post.canonicalUrl"* olarak değiştirin.
 
 
 W3C Standartlarına Uyumluluk
