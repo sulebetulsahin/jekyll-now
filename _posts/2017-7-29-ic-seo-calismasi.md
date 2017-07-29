@@ -110,24 +110,20 @@ URL yapınızda tarih, rakam gibi ögeler yer almamalı. Örneğin; Blogadi.com/
 Örnek SEO uyumlu URL yapısı:
 Blogadi.com/site-ici-seo veya Blogadi.com/seo/site-ici-seo
 
-H Etiketleri Kullanımı
+<p align="center" style="font-size:30px; font-weight:bold;">
+[H Etiketleri Kullanımı](){:name='hetiketi'}
+</p>
 Site içi SEO'nun olmazsa olmazları arasında H etiketleri kullanımı yer alıyor. H etiketleri(h1,h2,h3..) başlıkları kodlamak için kullanılmaktadır. Bu etiketleri kullanılırken hiyerarşik sıralamaya özen gösterilmelidir. Örneğin h1 etiketinden önce h2 etiketi kullanılmamalıdır.
 Her sayfada 1 tane h1 etiketi kullanılmalıdır. H1 etiketinde mutlaka anahtar kelimeniz yer almalı. Özellikle başlığın ilk bölümünde yer alması önemlidir. Genel olarak bir sayfada 1 tane h1, 4 tane h2 ve h3, 6 tane h5 etiketi bulunmalıdır.
 
-Başlık Seçimi ve Açıklama
+<p align="center" style="font-size:30px; font-weight:bold;">
+[Başlık Seçimi ve Açıklama](){:name='baslikaciklama'}
+</p>
 Ziyaretçilerinize ve arama motorlarına sitenizi tanıtan, neyle alakalı olduğunu anlamalarına yardımcı olan bölümdür. Anahtar kelimenize bu bölümde doğal bir biçimde yer verin. Başlık seçiminde kendinizi okuyucunun yerine koyun ve tıklanabilecek bir başlık seçin. Başlık uzunluğu en fazla 55 karakter olmalı. Açıklama seçiminiz sitenizi en iyi şekilde pazarlayacak cümleler içermeli. Açıklama uzunluğu 140-160 karakter arası olmalı. 
 
-
-
-
-
-
-
-
-
-
-
-SEO Uyumlu İçerik Hazırlama
+<p align="center" style="font-size:30px; font-weight:bold;">
+[SEO Uyumlu İçerik Hazırlama](){:name='icerik'}
+</p>
 Ziyaretçilerin sitede kalmasını sağlayan en önemli unsur içeriktir. İçeriğiniz okuyucuyu sıkmayan, uzun, konuyu tümüyle anlatan ve bilgi verici nitelikte olmalıdır. İçerik uzunluğu en az 300 kelime olmalıdır. İçeriklerinizi konuyla alakalı resim ve videolar ile zenginleştirin. İç ve dış bağlantılar ile ziyaretçilerinizin daha uzun süre sitede kalmasını garantileyin. Uzun yazılar sıralamada çıkmak için avantaj sağlamaktadır. Ancak uzun yazayım derken okuyucunun dikkatini dağıtacak ve kısa sürede sıkılıp siteden çıkacağı nitelikte olmamalı. İçeriğinizin kaliteli olup olmadığını anlamak için aşağıdaki kriterleri dikkate alabilirsiniz;
 
 Daha önce ziyaret edenlerin tekrar sitenize dönüş sağlaması
@@ -136,13 +132,18 @@ Ziyaretçilerin sitede kalma süresi
 Hemen çıkma oranı
 Doğrudan aramalardan gelen ziyaretçi sayısı
 
-Anahtar Kelime Kullanımı
+<p align="center" style="font-size:30px; font-weight:bold;">
+[Anahtar Kelime Kullanımı](){:name='anahtar'}
+</p>
 Bildiğiniz gibi arama motorlarından çeşitli kelimeler ile arama yaparak içeriklere ulaşıyoruz.  Yapılan araştırmalar kişilerin %75'inin konuyla ilgili cümle yerine kelimelerle arama yaptıklarını gösteriyor. Okuyucuların hangi kelimeleri aratarak içeriğinize ulaşmasını istiyorsanız içeriğinizde bu kelimeleri geçirmelisiniz. Anahtar kelime analizi için Google Keyword Tools'u kullanabilirsiniz. Aşırıya kaçmadan doğal olarak cümlenin akışı içerisinde anahtar kelimelerinizi kullanın. Anahtar kelimenizi içeriğinizdeki h2 etiketlerinde kullanın. İçeriğinizin ilk paragrafında mutlaka bir kere geçirin. Anahtar kelime dağılımı rekabeti yüksek kelimelerde içerik uzunluğuna göre %2-3 arasında rekabeti düşük kelimelerde içerik uzunluğuna göre %7-8 arasında olmalıdır.
 
-LSI
+<p align="center" style="font-size:30px; font-weight:bold;">
+[LSI](){:name='lsi'}
+</p>
 Anahtar kelimenizle eş anlamlı, alakalı veya benzer diğer kelimelerdir. Gizli anlamsal indexleme olarak bilinmektedir. Bu kelimeleri belirlemek için odak anahtar kelimenizi Google'da aratın,  sayfanın en altında benzer kelimeler çıkacaktır. Buradaki kelimelerden alakalı olanları LSI olarak belirleyebilirsiniz. 
 
-Resim Optimizasyonu
+<p align="center" style="font-size:30px; font-weight:bold;">
+[Resim Optimizasyonu](){:name='resim'}
 Görsel aramalarda çıkmak için içeriklerinizdeki resimlerin optimizasyonunu yapmalısınız. Resimlere anahtar kelimenizin geçtiği isim, başlık ve alt etiketi ekleyerek neyle alakalı olduğunu arama motoru böceklerine anlatmalısınız. İsimlendirirken Türkçe karakter kullanmayın, boşluk yerine '-' işareti kullanın. İçeriğin okunma kısmının genişliğinden daha büyük boyutta resim yüklemeyin. Resimleri yüklemeden önce Photoshop benzeri programlar ile optimize edin. Bunları yapmanız page speed skorunuz ve site hızınız için önemlidir. 
 
 Kaynaklar:
