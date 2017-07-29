@@ -41,31 +41,33 @@ Aynı içeriğe birden fazla URL ile ulaşılması sitenin duplicate content yan
 *Blogadi.com/anahtar2*
 
 İlk linkten ulaşılmasını istiyoruz diyelim. *<head> </head>* etiketleri arasına aşağıdaki gibi Canonical etiketini kullanırız. 
-*<link rel=”canonical” href=”blogadi.com/anahtar1” />*
+`<link rel=”canonical” href=”blogadi.com/anahtar1” />`
 
-Blogger alt yapılı bloglarda Canonical URL kullanmak için Tema->HTML'yi düzenle sekmesine geldikten sonra *expr:href="data:post.url"* kodunu bulup *expr:href="data:post.canonicalUrl"* olarak değiştirin.
+Blogger alt yapılı bloglarda Canonical URL kullanmak için Tema->HTML'yi düzenle sekmesine geldikten sonra `expr:href="data:post.url"` kodunu bulup `expr:href="data:post.canonicalUrl"` olarak değiştirin.
 
+<p align="center" style="font-size:30px; font-weight:bold;">
+[W3C Standartlarına Uyumluluk](){:name='w3c'}
+</p>
 
-W3C Standartlarına Uyumluluk
 Tim Bernes Lee tarafından kurulan W3C, webin gelişmesinde etkili olmuştur. Bu oluşumla HTML çıktıları belirli bir standart haline gelmiştir. W3C hataları sitenin kalite puanını düşürmekte ve web tarayıcıları tarafından doğru okunmasını güçleştirerek siteyi yavaşlatmaktadır. Bu nedenle sitenizin W3C standartlarını desteklemesi önemlidir. Aynı zamanda Trustrank değerini de etkilemektedir. W3C Validator ile sitenizi test ederek, gelen uyarıları en aza indirip sitenizi W3C uyumlu hale getirebilirsiniz. Uyarıları düzeltmek için temel CSS bilgisine sahip olmanız yeterlidir.
 
 Sık karşılaşılan bazı W3C hata çözümlerini aşağıda bulabilirsiniz.
 
 Etiketleri iç içe kapatma: Etiketleri sırasıyla kapatmalısınız. 
-Hatalı Kod: <b><i> Etiketleri İç İçe Kapatmak </b></i> 
-Doğru Kod: <b><i> Etiketleri İç İçe Kapatmak </i></b>
+Hatalı Kod: `<b><i> Etiketleri İç İçe Kapatmak </b></i>` 
+Doğru Kod: `<b><i> Etiketleri İç İçe Kapatmak </i></b>`
 
 XHTML etiketlerini kapatma: Bu etiketleri mutlaka kapatmalısınız.
-Hatalı Kod: <img src="resim.gif" alt="açıklama"> 
-Doğru Kod: <img src="resim.gif" alt="açıklama" />
+Hatalı Kod: `<img src="resim.gif" alt="açıklama">` 
+Doğru Kod: `<img src="resim.gif" alt="açıklama" />`
 
 DOCTYPE'ı büyük harfle yazma: Bu tanımlamayı büyük harfle yazmalısınız.
-Hatalı Kod: <!doctype html public "-//w3c//dtd xhtml 1.0 strict//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-strict.dtd" > 
-Doğru Kod: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Hatalı Kod: `<!doctype html public "-//w3c//dtd xhtml 1.0 strict//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-strict.dtd" >`
+Doğru Kod: `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">`
 
 Özellik değerlerini tırnak içerisinde girme: HTML ile bazı özellik değerlerini tırnaksız girebiliyorduk ancak XHTML ile mutlaka tırnak kullanmalıyız.
-Hatalı Kod: <td height=100%> 
-Doğru Kod: <td height="100%">
+Hatalı Kod: `<td height=100%>` 
+Doğru Kod: `<td height="100%">`
 
 Kırık Link Bağlantılarını Bildirme
 Websitenizde daha önce yer alan ve sonradan kaldırılan linklere, kırık link denilmektedir. 404 hatasıyla karşılaşılan sayfalar gibi. Kırık linklerin az olması veya hiç olmaması Google tarafından olumlu karşılanmaktadır. Websitenizde bulunan kırık linkleri Webmaster Tools panelinden “Sitenize Bağlantılar” sekmesinden öğrenebilirsiniz. Çalışmayan kırık linkler sitenizde buton, resim gibi herhangi bir bağlantıda bulunuyorsa kaldırın. Bu linkleri ilgili sayfalara(404 sayfası, kategori, yazı vb.) yönlendirin.
