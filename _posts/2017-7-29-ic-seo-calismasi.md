@@ -149,14 +149,14 @@ Görsel aramalarda çıkmak için içeriklerinizdeki resimlerin optimizasyonunu 
 
 Kaynaklar: <br/>
 1.[Seoteknikleri](https://www.seoteknikleri.com) <br/>
-2.Crmmedya   http://www.crmmedya.com <br/>
-3.https://peakment.com <br/>
-4.http://blog.112dijital.com <br/>
-5.http://wpmavi.com <br/>
-6.https://www.seocu.com <br/>
-7.http://www.ehliblog.com <br/>
-8.http://www.teknobeyin.com <br/>
-9.https://www.seohocasi.com/ <br/>
+2.[Crmmedya](http://www.crmmedya.com) <br/>
+3.[Peakment](https://peakment.com) <br/>
+4.[112dijital](http://blog.112dijital.com) <br/>
+5.[Wpmavi](http://wpmavi.com) <br/>
+6.[Seocu](https://www.seocu.com) <br/>
+7.[Ehliblog](http://www.ehliblog.com) <br/>
+8.[Teknobeyin](http://www.teknobeyin.com) <br/>
+9.[Seohocasi](https://www.seohocasi.com) <br/>
 
 
 
