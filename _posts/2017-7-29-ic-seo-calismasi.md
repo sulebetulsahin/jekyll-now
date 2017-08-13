@@ -53,16 +53,16 @@ Tim Bernes Lee tarafından kurulan W3C, webin gelişmesinde etkili olmuştur. Bu
 
 Sık karşılaşılan bazı W3C hata çözümlerini aşağıda bulabilirsiniz.
 
-Etiketleri iç içe kapatma: Etiketleri sırasıyla kapatmalısınız. 
-Hatalı Kod: `<b><i> Etiketleri İç İçe Kapatmak </b></i>` 
+Etiketleri iç içe kapatma: Etiketleri sırasıyla kapatmalısınız. <br/>
+Hatalı Kod: `<b><i> Etiketleri İç İçe Kapatmak </b></i>` <br/>
 Doğru Kod: `<b><i> Etiketleri İç İçe Kapatmak </i></b>`
 
-XHTML etiketlerini kapatma: Bu etiketleri mutlaka kapatmalısınız.
-Hatalı Kod: `<img src="resim.gif" alt="açıklama">` 
+XHTML etiketlerini kapatma: Bu etiketleri mutlaka kapatmalısınız. <br/>
+Hatalı Kod: `<img src="resim.gif" alt="açıklama">` <br/>
 Doğru Kod: `<img src="resim.gif" alt="açıklama" />`
 
-DOCTYPE'ı büyük harfle yazma: Bu tanımlamayı büyük harfle yazmalısınız.
-Hatalı Kod: `<!doctype html public "-//w3c//dtd xhtml 1.0 strict//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-strict.dtd" >`
+DOCTYPE'ı büyük harfle yazma: Bu tanımlamayı büyük harfle yazmalısınız. <br/>
+Hatalı Kod: `<!doctype html public "-//w3c//dtd xhtml 1.0 strict//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-strict.dtd" >` <br/>
 Doğru Kod: `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">`
 
 Özellik değerlerini tırnak içerisinde girme: HTML ile bazı özellik değerlerini tırnaksız girebiliyorduk ancak XHTML ile mutlaka tırnak kullanmalıyız.
