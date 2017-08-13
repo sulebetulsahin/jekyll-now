@@ -148,8 +148,8 @@ Anahtar kelimenizle eş anlamlı, alakalı veya benzer diğer kelimelerdir. Gizl
 Görsel aramalarda çıkmak için içeriklerinizdeki resimlerin optimizasyonunu yapmalısınız. Resimlere anahtar kelimenizin geçtiği isim, başlık ve alt etiketi ekleyerek neyle alakalı olduğunu arama motoru böceklerine anlatmalısınız. İsimlendirirken Türkçe karakter kullanmayın, boşluk yerine *'-'* işareti kullanın. İçeriğin okunma kısmının genişliğinden daha büyük boyutta resim yüklemeyin. Resimleri yüklemeden önce Photoshop benzeri programlar ile optimize edin. Bunları yapmanız page speed skorunuz ve site hızınız için önemlidir. 
 
 Kaynaklar: <br/>
-1.https://www.seoteknikleri.com <br/>
-2.http://www.crmmedya.com <br/>
+1.[Seoteknikleri](https://www.seoteknikleri.com) <br/>
+2.Crmmedya   http://www.crmmedya.com <br/>
 3.https://peakment.com <br/>
 4.http://blog.112dijital.com <br/>
 5.http://wpmavi.com <br/>
