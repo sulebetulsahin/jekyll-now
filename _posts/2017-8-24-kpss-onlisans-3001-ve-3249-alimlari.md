@@ -6,11 +6,9 @@ categories: deneme
 ---
 
 
-2014/2015/2016/2017 yıllarına ait 3001 ve 3249 kadroları için alım ve puanları aşağıdaki listelerde bulabilirsiniz. Puanlarda hatalar olabilir. <br/>
-Aynı kadro için aynı şehirde birden fazla alım olmuşsa sadece bir tanesinin puanını yazdım. Ayrıca genel olarak bu kadrolar için
-alım şartları ve mülakatları hakkında internette bulduğum bilgileri biraraya getirdim.
+2014/2015/2016/2017 yıllarına ait 3001 ve 3249 kadroları için alım ve puanları aşağıdaki listelerde bulabilirsiniz. Puanlarda hatalar olabilir. Aynı kadro için aynı şehirde birden fazla alım olmuşsa sadece bir tanesinin puanını yazdım.
 
-Kolay gelsin. <br/><br/>
+Kolay gelsin. <br/><br/><br/>
 
 {::options parse_block_html="true" /}
 
